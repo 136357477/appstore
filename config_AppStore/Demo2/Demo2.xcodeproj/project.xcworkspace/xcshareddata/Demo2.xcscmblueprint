@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "8AA603558079111A0C6B983CA8DA7768FAF8A735",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "8AA603558079111A0C6B983CA8DA7768FAF8A735" : 0,
+    "3C91770F950F9E6D01C3D9C420F2898CA6E684BF" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "E6D09729-4D57-44AE-B71D-00605A6B57A6",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "8AA603558079111A0C6B983CA8DA7768FAF8A735" : "appstore\/",
+    "3C91770F950F9E6D01C3D9C420F2898CA6E684BF" : ""
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Demo2",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "config_AppStore\/Demo2\/Demo2.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/136357477\/cocopostDemo.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "3C91770F950F9E6D01C3D9C420F2898CA6E684BF"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:136357477\/appstore.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "8AA603558079111A0C6B983CA8DA7768FAF8A735"
+    }
+  ]
+}
